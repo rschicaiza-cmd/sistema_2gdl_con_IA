@@ -1,0 +1,2 @@
+float32 velocidad_yaw
+float32 velocidad_pitch
